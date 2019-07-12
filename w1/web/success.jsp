@@ -11,10 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-<%--<%--%>
-    <%--ServletRequestWrapper param1 = application.getAttribute("p1")--%>
-<%--%>--%>
-
 <form action="./suc" method="post">
     <div style="text-align: center;">Registration form</div><br>
     <%
